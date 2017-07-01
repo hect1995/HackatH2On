@@ -14,7 +14,6 @@ from tweepy import API
 import random
 import numpy as np
 
-#Create a new Twitter app first: https://apps.twitter.com/app/new
 
 
 APP_KEY,APP_SECRET = 'H3kQtN5PQgRiA0ocRCCjqjt2P', '51UaJFdEally81B7ZXjGHkDoDKTYy430yd1Cb0St5Hb1BVcDfE'
