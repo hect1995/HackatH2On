@@ -6,7 +6,7 @@ from tweepy import OAuthHandler
 import json
 from tweepy import Stream
 from tweepy.streaming import StreamListener
-
+#tin
 import time,threading  #l'utilitzare per fer que cada 10 segons s'executi el mirar si hi han nous tweets
 from twython import Twython  #importar Twython
 from tweepy import Stream
